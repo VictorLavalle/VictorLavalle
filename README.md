@@ -50,7 +50,7 @@
   <img align="left" alt="Victor Lavalle's Spotify" title="Spotify | Victor Lavalle" width="24px"
        src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-  <a href="https://www.instagram.com/vmlc.exe/ target="_blank"">
+  <a href="https://www.instagram.com/vmlc.exe/ " target="_blank">
     <img align="left" alt="Victor Lavalle's Instagram" title="Instagram | Victor Lavalle" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> 
   <a href="mailto:vmlc1499@gmail.com?Subject=Aqui%20el%20asunto%20del%20mail">
