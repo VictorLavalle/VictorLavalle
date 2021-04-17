@@ -56,4 +56,6 @@
   <a href="mailto:vmlc1499@gmail.com?Subject=Aqui%20el%20asunto%20del%20mail">
     <img align="left" alt="Victor Lavalle's Gmail" title="Gmail | Victor Lavalle" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
-
+  
+<br> 
+<h4 align="center">"You are not what you achieve, but what you overcome"☕</h4>
