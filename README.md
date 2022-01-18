@@ -1,6 +1,6 @@
 # Hello there I'm Victor Lavalle🖖
 
-- 🔭 I’m currently working on Fron-end technologies <br>
+- 🔭 I’m currently working on Front-end technologies <br>
 - 🌱 I’m currently learning Webpack <img src="https://blog.pleets.org/img/articles/webpack-icon.png"  height="13" width="16">  & Vue.js <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"  height="13" width="16">  <br>
 -  :books: I want to learn about mobile apps <img src="https://cdn.worldvectorlogo.com/logos/android-4.svg"  height="13" width="22"> <br>
 - 👯 I’m looking to collaborate on Web Projects <br>
