@@ -1,4 +1,4 @@
-# Hello there I'm Victor Lavalle🖖
+# Hello there I'm Víctor Lavalle🖖
 
 - 🔭 I’m currently working on Front-end technologies <br>
 - 🌱 I’m currently learning Webpack <img src="https://blog.pleets.org/img/articles/webpack-icon.png"  height="13" width="16">  & Vue.js <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"  height="13" width="16">  <br>
