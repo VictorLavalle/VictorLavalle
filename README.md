@@ -34,7 +34,7 @@
 
 <h4 align="center">Top langs :man_technologist:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLavalle&langs_count=10&theme=tokyonight&layout=compact" alt="VictorLavalle :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLavalle&langs_count=12&theme=tokyonight&layout=compact" alt="VictorLavalle :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
