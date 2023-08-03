@@ -50,7 +50,7 @@
   <img align="left" alt="Victor Lavalle's Spotify" title="Spotify | Victor Lavalle" width="24px"
        src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Fapplesofgoldcommunications.com%2Fwp-content%2Fuploads%2F2020%2F01%2F1024px-Spotify_logo_without_text.svg_.png%3Ffit%3D300%252C300%26ssl%3D1&f=1&nofb=1" />
 </a>
-  <a href="https://www.instagram.com/vmlc.exe/ " target="_blank">
+  <a href="https://www.instagram.com/victorlavalle_/ " target="_blank">
     <img align="left" alt="Victor Lavalle's Instagram" title="Instagram | Victor Lavalle" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> 
   <a href="mailto:vmlc1499@gmail.com?Subject=Aqui%20el%20asunto%20del%20mail">
