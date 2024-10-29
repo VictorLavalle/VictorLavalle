@@ -1,10 +1,10 @@
 # Hello there I'm Víctor Lavalle🖖
 
-- 🔭 I’m currently working as a COBOL Dev <br>
-- 🌱 I’m currently improving my skills in JCL, APX and DB2 <br>
--  :books: I want to learn about mobile apps <img src="https://cdn.worldvectorlogo.com/logos/android-4.svg"  height="13" width="22"> <br>
+- 🔭 I’m currently working as a Backend Dev <br>
+- 🌱 I’m currently improving my skills in Cloud, Dcoker and Typescript <br>
+-  :books: I want to improve on being a Full Stack Dev <img src="https://cdn.worldvectorlogo.com/logos/android-4.svg"  height="13" width="22"> <br>
 - 👯 I’m looking to collaborate on Web Projects <br>
-- ⚡️ Fun-Fact: Not a morning person tho 🙃
+- ⚡️ Fun-Fact: Not a morning person 🦇
 - 💬 Ask me about any project idea on mind! <br>
 
 
