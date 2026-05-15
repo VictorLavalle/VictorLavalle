@@ -80,6 +80,8 @@
   <img src="https://komarev.com/ghpvc/?username=VictorLavalle&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
+### @VictorLavalle
+
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VictorLavalle&langs_count=10&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
@@ -90,6 +92,20 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorLavalle&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### @viclavalle
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viclavalle&langs_count=10&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages - viclavalle" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=viclavalle&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats - viclavalle" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viclavalle&theme=tokyonight&hide_border=true" alt="GitHub Streak - viclavalle" />
 </p>
 
 ---
