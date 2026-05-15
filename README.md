@@ -1,7 +1,7 @@
 # Hello there I'm Víctor Lavalle🖖
 
-- 🔭 I’m currently working as a Backend Dev <br>
-- 🌱 I’m currently improving my skills in Cloud, Dcoker and Typescript <br>
+- 🔭 I’m currently working as a Fullstack Dev | Java + Angular + AWS + SQL<br>
+- 🌱 I’m currently improving my skills in Cloud and Docker<br>
 -  :books: I want to improve on being a Full Stack Dev <img src="https://cdn.worldvectorlogo.com/logos/android-4.svg"  height="13" width="22"> <br>
 - 👯 I’m looking to collaborate on Web Projects <br>
 - ⚡️ Fun-Fact: Not a morning person 🦇
