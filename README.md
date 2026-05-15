@@ -1,61 +1,99 @@
-# Hello there I'm Víctor Lavalle🖖
-
-- 🔭 I’m currently working as a Fullstack Dev | Java + Angular + AWS + SQL<br>
-- 🌱 I’m currently improving my skills in Cloud and Docker<br>
--  :books: I want to improve on being a Full Stack Dev <img src="https://cdn.worldvectorlogo.com/logos/android-4.svg"  height="13" width="22"> <br>
-- 👯 I’m looking to collaborate on Web Projects <br>
-- ⚡️ Fun-Fact: Not a morning person 🦇
-- 💬 Ask me about any project idea on mind! <br>
-
-
-<h2 align="center">Technologies & Tools🔧</h2>
+<h1 align="center">Hey there, I'm Víctor Lavalle 🖖</h1>
 
 <p align="center">
-  
-![C](https://img.shields.io/badge/-3d3d3d?style=flat&logo=c&logoColor=white&link=https://github.com/VictorLavalle)
-![C++](https://img.shields.io/badge/-C++-yellow?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/VictorLavalle)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+  <strong>Fullstack Developer</strong> · Java · Angular · AWS · TypeScript · Next.js
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/victorlavalle/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vmlc1499@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/victorlavalle_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://open.spotify.com/user/12162491139" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
+</p>
+
+---
+
+- 🔭 Currently working as a **Fullstack Dev** — Java + Angular + AWS + SQL
+- 🌱 Improving my skills in **Cloud Architecture** and **Docker**
+- 📚 Passionate about building modern web applications
+- 👯 Looking to collaborate on **Web Projects**
+- 💬 Ask me about any project idea on your mind!
+- ⚡ Fun fact: Not a morning person 🦇
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </p>
 
-<h2 align="center">Github stats :bar_chart:</h2>
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{VictorLavalle}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+---
 
-<h4 align="center">Top langs :man_technologist:</h4>
+## 🚀 Featured Projects
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLavalle&langs_count=12&theme=tokyonight&layout=compact" alt="VictorLavalle :: Top Langs" /></p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/VictorLavalle/Panko-Sushi">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorLavalle&repo=Panko-Sushi&theme=tokyonight" alt="Panko-Sushi" />
+      </a>
+      <br/>
+      <sub>Digital menu for a sushi restaurant — Next.js, TypeScript, Tailwind CSS</sub>
+    </td>
+  </tr>
+</table>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=VictorLavalle&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+## 📊 GitHub Stats
 
-# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VictorLavalle&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
-  <a href="https://www.linkedin.com/in/victorlavalle/" target="_blank">
-    <img align="left" alt="Victor Lavalle's LinkedIN" title="LinkedIn | Victor Lavalle" width="24px"
-         src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> 
-<a href="https://open.spotify.com/user/12162491139?si=eNAYvt67Q9O8VE_Q71DKjA&nd=1" target="_blank">
-  <img align="left" alt="Victor Lavalle's Spotify" title="Spotify | Victor Lavalle" width="24px"
-       src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Fapplesofgoldcommunications.com%2Fwp-content%2Fuploads%2F2020%2F01%2F1024px-Spotify_logo_without_text.svg_.png%3Ffit%3D300%252C300%26ssl%3D1&f=1&nofb=1" />
-</a>
-  <a href="https://www.instagram.com/victorlavalle_/ " target="_blank">
-    <img align="left" alt="Victor Lavalle's Instagram" title="Instagram | Victor Lavalle" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> 
-  <a href="mailto:vmlc1499@gmail.com?Subject=Aqui%20el%20asunto%20del%20mail">
-    <img align="left" alt="Victor Lavalle's Gmail" title="Gmail | Victor Lavalle" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a>
-  
-<br> 
-<h4 align="center">"You are not what you achieve, but what you overcome"☕</h4>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VictorLavalle&langs_count=10&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VictorLavalle&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorLavalle&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <em>"You are not what you achieve, but what you overcome" ☕</em>
+</p>
