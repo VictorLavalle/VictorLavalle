@@ -60,17 +60,17 @@
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/VictorLavalle/Panko-Sushi">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorLavalle&repo=Panko-Sushi&theme=tokyonight" alt="Panko-Sushi" />
-      </a>
-      <br/>
-      <sub>Digital menu for a sushi restaurant — Next.js, TypeScript, Tailwind CSS</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/VictorLavalle/Panko-Sushi">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VictorLavalle&repo=Panko-Sushi&theme=tokyonight&hide_border=true" alt="Panko-Sushi" />
+  </a>
+  <a href="https://github.com/VictorLavalle/spass-tools">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VictorLavalle&repo=spass-tools&theme=tokyonight&hide_border=true" alt="spass-tools" />
+  </a>
+  <a href="https://github.com/VictorLavalle/Java-Junior-Interview">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VictorLavalle&repo=Java-Junior-Interview&theme=tokyonight&hide_border=true" alt="Java-Junior-Interview" />
+  </a>
+</p>
 
 ---
 
